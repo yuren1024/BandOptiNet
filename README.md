@@ -1,3 +1,2 @@
-# BandOptiNet
-波数选择网络
-The codes will be availalbe soon.
+# Overcoming the Nyquist Limit in Hyperspectral Imaging by Reinforcement Learning Guided Feature Selection
+The code will be released after the article is accepted.
